@@ -62,5 +62,7 @@ int main()
 	AnyTriangle = MinHypotenose(SimpleRightTriangle, QuantityOfRightTriangles);
 	cout << "Triangle with the lowest hypotenose:" << endl << AnyTriangle;
 
+
+
     return 0;
 }
